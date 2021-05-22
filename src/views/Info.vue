@@ -1,6 +1,6 @@
 <template>
     <div>
-        About
+Info
     </div>
 </template>
 
@@ -13,4 +13,8 @@
 <style lang="scss" scoped>
 @import "../styles/globalsass.scss";
 
+div {
+    height: 100vh;
+    background-color: map-get($colorscheme, primary);
+}
 </style>

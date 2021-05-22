@@ -1,6 +1,6 @@
 <template>
     <div>
-        About
+Leader Log In
     </div>
 </template>
 
