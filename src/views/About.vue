@@ -1,6 +1,6 @@
 <template>
     <div>
-        About
+        <h1>Vesterhavsgruppen</h1>
     </div>
 </template>
 

@@ -23,7 +23,8 @@ export default {};
 @import "../styles/globalsass.scss";
 
 #nav {
-  padding: 30px;
+  padding: 18px;
+  padding-left: 2.5em;
   display: flex;
   align-items: center;
   justify-content: space-between;
